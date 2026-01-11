@@ -1,0 +1,49 @@
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Export directories (these are typically large and user-generated)
+Export/
+Exports/
+Build/
+Builds/
+
+# Documentation build artifacts
+docs/_build/
+docs/.doctrees/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Blender
+*.blend1
+*.blend2
+*.blend3
+
+# Unity (if someone adds Unity project files here)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+
+# OS files
+Thumbs.db
+desktop.ini
